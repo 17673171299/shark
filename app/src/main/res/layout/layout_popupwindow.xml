@@ -13,19 +13,21 @@
         android:text="注册"
         android:gravity="center"
         android:textSize="20dp"/>
-    <view
+    <View
         android:layout_width="match_parent"
-        android:layout_height="1dp" />
+        android:layout_height="1dp"
+        android:background="#706D6D"/>
     <TextView
         android:id="@+id/tv_shuojidenglu"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="手机登录"
+        android:text="账号密码登录"
         android:gravity="center"
         android:textSize="20dp"/>
-    <view
+    <View
         android:layout_width="match_parent"
-        android:layout_height="4dp"/>
+        android:layout_height="4dp"
+        android:background="#706D6D"/>
     <TextView
         android:id="@+id/tv_quxiao"
         android:layout_width="match_parent"
